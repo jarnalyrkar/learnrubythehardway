@@ -9,6 +9,7 @@ binary = "binary"
 do_not = "don't"
 # sets the variable y to the text string below, which contains
 # the content of both the binary variable and the do_not variable
+# This variable contains two strings within a string
 y = "Those who know #{binary} and those who #{do_not}."
 
 # prints the content of the variable x
