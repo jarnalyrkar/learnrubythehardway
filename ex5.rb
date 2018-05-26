@@ -6,6 +6,10 @@ eyes = 'Blue'
 teeth = 'White'
 hair = 'Brown'
 
+# Drill 2
+height_in_meters = height * 2.54
+weight_in_kg = weight / 2.20462
+
 puts "Let's talk about #{name}."
 puts "He's #{height} inches tall."
 puts "Actually that's not too heavy."
