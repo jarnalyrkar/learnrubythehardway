@@ -10,3 +10,6 @@ number = another.to_i
 
 smaller = number / 100
 puts "A smaller number is #{smaller}."
+
+print 100
+print 100.to_f
