@@ -12,7 +12,7 @@ print "What dnd class is your favorite? "
 dnd_class = gets.chomp
 print "What dnd race is your favorite? "
 dnd_race = gets.chomp
-
+puts "Your character is therefore a #{dnd_race} #{dnd_class}, and you shall save the world!
 
 
 
